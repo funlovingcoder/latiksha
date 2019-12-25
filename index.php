@@ -206,7 +206,7 @@
                                         <div class="item">
                                             <div class="testimony-slide active text-center">
                                                 <figure>
-                                                    <img src="images/couple-2.jpg" alt="user">
+                                                    <img src="images/hareesh.jpg" alt="user">
                                                 </figure>
                                                 <span><a href="#" class="twitter">Hareesh Sharma(Brides's Father)</a></span>
                                             </div>
@@ -214,7 +214,7 @@
                                         <div class="item">
                                             <div class="testimony-slide active text-center">
                                                 <figure>
-                                                    <img src="images/couple-2.jpg" alt="user">
+                                                    <img src="images/grijesh.jpg" alt="user">
                                                 </figure>
                                                 <span><a href="#" class="twitter">Grijesh Sharma(Brides's Mother)</a></span>
                                             </div>
@@ -222,7 +222,7 @@
                                         <div class="item">
                                             <div class="testimony-slide active text-center">
                                                 <figure>
-                                                    <img src="images/couple-2.jpg" alt="user">
+                                                    <img src="images/abhishek.jpg" alt="user">
                                                 </figure>
                                                 <span><a href="#" class="twitter">Abhishek Sharma(Brides's Brother)</a></span>
                                             </div>
@@ -230,7 +230,7 @@
                                         <div class="item">
                                             <div class="testimony-slide active text-center">
                                                 <figure>
-                                                    <img src="images/couple-2.jpg" alt="user">
+                                                    <img src="images/richa.jpg" alt="user">
                                                 </figure>
                                                 <span><a href="#" class="twitter">Richa Sharma(Bride's Sister)</a></span>
                                             </div>
