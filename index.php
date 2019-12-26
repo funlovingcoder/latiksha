@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <meta property="og:image" content="images/img_bg_2.jpg" />
+    <meta property="og:image" content="http://www.latiksha.online/images/img_bg_2.jpg" />
     <meta property="og:title" content="Lalit weds Titiksha" />
     <meta property="og:description" content="We are getting married on 15th Jan, 2020" />
 
