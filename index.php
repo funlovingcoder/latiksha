@@ -212,22 +212,6 @@
                                         <div class="item">
                                             <div class="testimony-slide active text-center">
                                                 <figure>
-                                                    <img src="images/sonu.jpg" alt="user">
-                                                </figure>
-                                                <span><a href="#" class="twitter">Sonu Sharma(Groom's Brother)</a></span>
-                                            </div>
-                                        </div>
-                                        <div class="item">
-                                            <div class="testimony-slide active text-center">
-                                                <figure>
-                                                    <img src="images/pooja.jpg" alt="user">
-                                                </figure>
-                                                <span><a href="#" class="twitter">Pooja Sharma(Groom's Sister)</a></span>
-                                            </div>
-                                        </div>
-                                        <div class="item">
-                                            <div class="testimony-slide active text-center">
-                                                <figure>
                                                     <img src="images/hareesh.jpg" alt="user">
                                                 </figure>
                                                 <span><a href="#" class="twitter">Hareesh Sharma(Brides's Father)</a></span>
@@ -239,6 +223,22 @@
                                                     <img src="images/grijesh.jpg" alt="user">
                                                 </figure>
                                                 <span><a href="#" class="twitter">Grijesh Sharma(Brides's Mother)</a></span>
+                                            </div>
+                                        </div>
+                                        <div class="item">
+                                            <div class="testimony-slide active text-center">
+                                                <figure>
+                                                    <img src="images/sonu.jpg" alt="user">
+                                                </figure>
+                                                <span><a href="#" class="twitter">Sonu Sharma(Groom's Brother)</a></span>
+                                            </div>
+                                        </div>
+                                        <div class="item">
+                                            <div class="testimony-slide active text-center">
+                                                <figure>
+                                                    <img src="images/pooja.jpg" alt="user">
+                                                </figure>
+                                                <span><a href="#" class="twitter">Pooja Sharma(Groom's Sister)</a></span>
                                             </div>
                                         </div>
                                         <div class="item">
