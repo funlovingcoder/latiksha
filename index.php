@@ -113,6 +113,36 @@
                         <div class="display-t">
                             <div class="display-tc">
                                 <div class="col-md-10 col-md-offset-1">
+                                    <div class="col-md-6 col-sm-6 text-center" style="padding-bottom: 5%;">
+                                        <div class="event-wrap animate-box">
+                                            <h3>Bindori</h3>
+                                            <div class="event-col">
+                                                <i class="icon-clock"></i>
+                                                <span>7:00 PM</span>
+                                                <span>8:00 PM</span>
+                                            </div>
+                                            <div class="event-col">
+                                                <i class="icon-calendar"></i>
+                                                <span>Wednesday 13</span>
+                                                <span>January, 2020</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-6 text-center" style="padding-bottom: 5%;">
+                                        <div class="event-wrap animate-box">
+                                            <h3>Bhaat</h3>
+                                            <div class="event-col">
+                                                <i class="icon-clock"></i>
+                                                <span>9:15 AM</span>
+                                                <span>10:15 AM</span>
+                                            </div>
+                                            <div class="event-col">
+                                                <i class="icon-calendar"></i>
+                                                <span>Wednesday 15</span>
+                                                <span>January, 2020</span>
+                                            </div>
+                                        </div>
+                                    </div>
                                     <div class="col-md-6 col-sm-6 text-center">
                                         <div class="event-wrap animate-box">
                                             <h3>Baraat</h3>
@@ -126,10 +156,6 @@
                                                 <span>Wednesday 15</span>
                                                 <span>January, 2020</span>
                                             </div>
-                                            <p>Far far away, behind the word mountains, far from the countries Vokalia and
-                                                Consonantia, there live the blind texts. Separated they live in
-                                                Bookmarksgrove right at the coast of the Semantics, a large language ocean.
-                                            </p>
                                         </div>
                                     </div>
                                     <div class="col-md-6 col-sm-6 text-center">
@@ -145,10 +171,6 @@
                                                 <span>Wednesday 15</span>
                                                 <span>January, 2020</span>
                                             </div>
-                                            <p>Far far away, behind the word mountains, far from the countries Vokalia and
-                                                Consonantia, there live the blind texts. Separated they live in
-                                                Bookmarksgrove right at the coast of the Semantics, a large language ocean.
-                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -242,7 +264,6 @@
                     </div>
                 </div>
             </div>
-
         </div>
 
         <div class="gototop js-top">
