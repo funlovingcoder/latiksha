@@ -58,7 +58,7 @@
                                     <h1>Lalit &amp; Titiksha</h1>
                                     <h2>We Are Getting Married</h2>
                                     <div class="simply-countdown simply-countdown-one"></div>
-                                    <p><a href="#" class="btn btn-default btn-sm">Save the date</a></p>
+                                    <p><a href="#" class="btn btn-default btn-sm">Scroll Down</a></p>
                                 </div>
                             </div>
                         </div>
@@ -113,7 +113,7 @@
                         <div class="display-t">
                             <div class="display-tc">
                                 <div class="col-md-10 col-md-offset-1">
-                                    <div class="col-md-6 col-sm-6 text-center" style="padding-bottom: 5%;">
+                                    <div class="col-md-6 col-sm-6 text-center" style="padding-bottom: 3%;">
                                         <div class="event-wrap animate-box">
                                             <h3>Bindori</h3>
                                             <div class="event-col">
@@ -128,7 +128,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-6 col-sm-6 text-center" style="padding-bottom: 5%;">
+                                    <div class="col-md-6 col-sm-6 text-center" style="padding-bottom: 3%;">
                                         <div class="event-wrap animate-box">
                                             <h3>Bhaat</h3>
                                             <div class="event-col">
