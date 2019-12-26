@@ -4,7 +4,11 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta property="og:image" content="images/img_bg_2.jpg">
+
+    <meta property="og:image" content="images/img_bg_2.jpg" />
+    <meta property="og:title" content="Lalit weds Titiksha" />
+    <meta property="og:description" content="We are getting married on 15th Jan, 2020" />
+
     <title>Latiksha Wedding</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -99,7 +103,10 @@
                         </div>
                         <div class="desc-bride">
                             <h3>Titiksha Sharma</h3>
-                            <p>Hi. The name is Titiksha, but my family and friends call me Neha. I have completed my engineering(EC) from MAIIT Kota, I see no difference between weekday and weekend I enjoy everyday like 'this is the day'. In my free time I enjoy going out with friends, I love dancing and sleeping. my favourite life mantra is to enjoy everyday.</p>
+                            <p>Hi. The name is Titiksha, but my family and friends call me Neha. I have completed my
+                                engineering(EC) from MAIIT Kota, I see no difference between weekday and weekend I enjoy
+                                everyday like 'this is the day'. In my free time I enjoy going out with friends, I love
+                                dancing and sleeping. my favourite life mantra is to enjoy everyday.</p>
                             <p>← I kind of have a thing for Him</p>
                         </div>
                     </div>
