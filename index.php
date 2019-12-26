@@ -237,86 +237,80 @@
                             <div class="col-md-10 col-md-offset-1">
                                 <div class="col-md-4 col-sm-4 text-center" style="padding-bottom: 3%;">
                                     <div class="event-wrap animate-box">
-                                        <h3>ABC</h3>
+                                        <h3>Vinayak Sthapna</h3>
                                         <div class="event-col">
                                             <i class="icon-clock"></i>
-                                            <span>00:00 PM</span>
-                                            <span>00:00 PM</span>
+                                            <span>02:00 PM</span>
                                         </div>
                                         <div class="event-col">
                                             <i class="icon-calendar"></i>
-                                            <span>Wednesday 15</span>
+                                            <span>Friday 10</span>
                                             <span>January, 2020</span>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-sm-4 text-center" style="padding-bottom: 3%;">
                                     <div class="event-wrap animate-box">
-                                        <h3>ABC</h3>
+                                        <h3>Haldi Mehndi</h3>
                                         <div class="event-col">
                                             <i class="icon-clock"></i>
-                                            <span>00:00 PM</span>
-                                            <span>00:00 PM</span>
+                                            <span>12:30 PM</span>
                                         </div>
                                         <div class="event-col">
                                             <i class="icon-calendar"></i>
-                                            <span>Wednesday 15</span>
+                                            <span>Monday 13</span>
                                             <span>January, 2020</span>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-sm-4 text-center" style="padding-bottom: 3%;">
                                     <div class="event-wrap animate-box">
-                                        <h3>ABC</h3>
+                                        <h3>Kalash Poojan</h3>
                                         <div class="event-col">
                                             <i class="icon-clock"></i>
-                                            <span>00:00 PM</span>
-                                            <span>00:00 PM</span>
+                                            <span>10:00 AM</span>
                                         </div>
                                         <div class="event-col">
                                             <i class="icon-calendar"></i>
-                                            <span>Wednesday 15</span>
+                                            <span>Tuesday 14</span>
+                                            <span>January, 2020</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 col-sm-4 text-center" style="padding-bottom: 3%;">
+                                    <div class="event-wrap animate-box">
+                                        <h3>Bhaat</h3>
+                                        <div class="event-col">
+                                            <i class="icon-clock"></i>
+                                            <span>02:00 PM</span>
+                                        </div>
+                                        <div class="event-col">
+                                            <i class="icon-calendar"></i>
+                                            <span>Tuesday 14</span>
                                             <span>January, 2020</span>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-sm-4 text-center">
                                     <div class="event-wrap animate-box">
-                                        <h3>ABC</h3>
+                                        <h3>Ladies Sangeet</h3>
                                         <div class="event-col">
                                             <i class="icon-clock"></i>
-                                            <span>00:00 PM</span>
-                                            <span>00:00 PM</span>
+                                            <span>06:00 PM</span>
                                         </div>
                                         <div class="event-col">
                                             <i class="icon-calendar"></i>
-                                            <span>Wednesday 15</span>
+                                            <span>Tuesday 14</span>
                                             <span>January, 2020</span>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-sm-4 text-center">
                                     <div class="event-wrap animate-box">
-                                        <h3>ABC</h3>
+                                        <h3>Baraat Swagat</h3>
                                         <div class="event-col">
                                             <i class="icon-clock"></i>
-                                            <span>00:00 PM</span>
-                                            <span>00:00 PM</span>
-                                        </div>
-                                        <div class="event-col">
-                                            <i class="icon-calendar"></i>
-                                            <span>Wednesday 15</span>
-                                            <span>January, 2020</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-4 text-center">
-                                    <div class="event-wrap animate-box">
-                                        <h3>ABC</h3>
-                                        <div class="event-col">
-                                            <i class="icon-clock"></i>
-                                            <span>00:00 PM</span>
-                                            <span>00:00 PM</span>
+                                            <span>06:30 PM</span>
                                         </div>
                                         <div class="event-col">
                                             <i class="icon-calendar"></i>
