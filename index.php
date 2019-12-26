@@ -82,8 +82,8 @@
                             </div>
                             <div class="desc-groom">
                                 <h3>Lalit Kishor</h3>
-                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
-                                    there live the blind texts. Separated they live in Bookmarksgrove</p>
+                                <p>Hey folks. The name's Lalit, but people in my family call me Piyush. I work as a Salesforce Consultant at Deloitte USI(Bangaluru) on weekdays, and try to take advantage of the outdoors and all the other fun(sleeping mostly) on weekends. I am an extrovert and love to have fun and good food to eat and that is all to make a day good for me.</p>
+                                <p>I kind of have a thing for Her →</p>
                             </div>
                         </div>
                         <p class="heart text-center"><i class="icon-heart2"></i></p>
@@ -93,8 +93,8 @@
                             </div>
                             <div class="desc-bride">
                                 <h3>Titiksha Sharma</h3>
-                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
-                                    there live the blind texts. Separated they live in Bookmarksgrove</p>
+                                <p>Hey folks. The name's Lalit, but people in my family call me Piyush. I work as a Salesforce Consultant at Deloitte USI(Bangaluru) on weekdays, and try to take advantage of the outdoors and all the other fun(sleeping mostly) on weekends. I am an extrovert and love to have fun and good food to eat and that is all to make a day good for me.</p>
+                                <p>← I kind of have a thing for Him</p>
                             </div>
                         </div>
                     </div>
