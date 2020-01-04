@@ -89,7 +89,7 @@
                             <img src="images/groom.jpg" alt="groom" class="img-responsive">
                         </div>
                         <div class="desc-groom">
-                            <h3>Lalit Kishor <a href="https://www.facebook.com/funlovingcoder"><i class="icon-facebook"></i></a> <a href="https://www.instagram.com/funlovingcoder"><i class="icon-instagram"></i></a></h3>
+                            <h3><a href="https://www.facebook.com/funlovingcoder"><i class="icon-facebook"></i></a> Lalit Kishor <a href="https://www.instagram.com/funlovingcoder"><i class="icon-instagram"></i></a></h3>
                             <p>Hey folks. The name is Lalit, but people in my family call me Piyush. I work as a
                                 Salesforce Consultant at Deloitte USI(Bangaluru) on weekdays, and try to take advantage
                                 of the outdoors and all the other fun(sleeping mostly) on weekends. I am an extrovert
@@ -103,7 +103,7 @@
                             <img src="images/bride.jpg" alt="groom" class="img-responsive">
                         </div>
                         <div class="desc-bride">
-                            <h3>Titiksha Sharma <a href="https://www.facebook.com/profile.php?id=100005382334272"><i class="icon-facebook"></i></a> <a href="https://www.instagram.com/latikshasharma"><i class="icon-instagram"></i></a></h3>
+                            <h3><a href="https://www.facebook.com/profile.php?id=100005382334272"><i class="icon-facebook"></i></a> Titiksha Sharma <a href="https://www.instagram.com/latikshasharma"><i class="icon-instagram"></i></a></h3>
                             <p>Hi. The name is Titiksha, but my family and friends call me Neha. I have completed my
                                 engineering(EC) from MAIIT Kota, I see no difference between weekday and weekend I enjoy
                                 everyday like 'this is the day'. In my free time I enjoy going out with friends, I love
