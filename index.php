@@ -79,7 +79,8 @@
                     <div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
                         <h2>Hello!</h2>
                         <h3>January 15th, 2020 Ajmer, Rajasthan</h3>
-                        <p>We invited you to celebrate our wedding</p>
+                        <p>We invited you to celebrate our wedding at</p>
+                        <p>Star Queen Marriage Garden, Lohagal Road, Ajmer</p>
                     </div>
                 </div>
                 <div class="couple-wrap animate-box">
@@ -464,7 +465,7 @@
     <script src="js/main.js"></script>
 
     <script>
-        var d = new Date(2020, 0, 15);
+        var d = new Date(2020, 0, 16);
 
         // default example
         simplyCountdown('.simply-countdown-one', {
