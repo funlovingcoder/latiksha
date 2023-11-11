@@ -60,7 +60,7 @@
                     <div class="col-md-8 col-md-offset-2 text-center">
                         <div class="display-t">
                             <div class="display-tc animate-box" data-animate-effect="fadeIn">
-                                <h1>Lalit Kishor</h1>
+                                <h1>Lalit Sharma</h1>
                                 <h2>weds</h2>
                                 <h1>Titiksha Sharma</h1>
                                 <h2>We Are Getting Married</h2>
